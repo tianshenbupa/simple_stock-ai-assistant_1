@@ -1,4 +1,4 @@
-```markdown
+
 # 股票投资 AI 助手
 
 使用 LangChain 1.0.5 和 DeepSeek 构建的多代理股票投资分析系统。
@@ -297,4 +297,5 @@ MIT License
 - [LangChain](https://langchain.com) - AI 代理框架
 - [DeepSeek](https://deepseek.com) - LLM 模型
 - [Chroma](https://trychroma.com) - 向量数据库
+
 ```
